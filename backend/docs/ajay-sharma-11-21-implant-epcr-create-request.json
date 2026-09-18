@@ -1,0 +1,241 @@
+{
+  "patientName": "Ajay Sharma",
+  "patientDateOfBirth": "1996-01-01",
+  "patientGender": "MALE",
+  "age": 30,
+  "medicalHistory": {
+    "pastConditions": [],
+    "currentMedications": [],
+    "allergies": [
+      "No known drug allergies reported"
+    ],
+    "surgicalHistory": [],
+    "dnrOnFile": false,
+    "advanceDirective": false,
+    "smoker": false,
+    "alcoholUse": false,
+    "substanceUse": false,
+    "pregnant": false,
+    "lastKnownWellDateTime": "2026-06-17T10:00:00",
+    "lastOralIntake": "Not recorded",
+    "notes": [
+      "Patient medically fit.",
+      "No significant systemic illness reported.",
+      "No loss of consciousness after road traffic accident."
+    ]
+  },
+  "allergy": "No known drug allergies reported",
+  "comorbidity": "None reported",
+  "doctor": "Dental implant and trauma clinic",
+  "currentMedicines": "None reported",
+  "incidentDateTime": "2026-06-17T10:00:00",
+  "incidentLocation": "Road traffic accident site",
+  "incidentDescription": "Road traffic accident causing severe trauma to the upper anterior region. Patient reported one day later with pain, mobility, fractured upper front teeth, difficulty speaking, pain on biting, and unaesthetic appearance. No loss of consciousness was reported.",
+  "incidentType": "DENTAL",
+  "complaints": [
+    "Pain in fractured upper front teeth",
+    "Mobility of teeth 11 and 21",
+    "Fractured maxillary central incisors after road traffic accident",
+    "Pain while biting",
+    "Difficulty in speaking",
+    "Unaesthetic appearance"
+  ],
+  "vitals": [
+    "Vitals not specifically recorded in case sheet",
+    "Patient medically stable",
+    "No loss of consciousness"
+  ],
+  "structuredComplaints": [
+    {
+      "complaint": "Traumatic fracture and mobility of maxillary central incisors 11 and 21",
+      "onset": "Acute",
+      "onsetTime": "2026-06-17T10:00:00",
+      "provocation": "Biting, speech, palpation, and percussion",
+      "quality": "Traumatic dental pain with mobility and esthetic impairment",
+      "radiation": "None reported",
+      "severity": 8,
+      "timing": "Persistent since road traffic accident",
+      "associatedSymptoms": "Upper lip swelling, superficial abrasions, gingival laceration, cervical bleeding, pulp exposure, and tenderness on percussion",
+      "traumaRelated": true
+    }
+  ],
+  "diagnosis": "Complicated crown-root fractures of maxillary central incisors 11 and 21 secondary to road traffic accident, with Ellis Class VIII traumatic injury pattern, pulp exposure, Grade II mobility, subgingival oblique crown-root fracture extension, poor crown-root ratio, loss of ferrule effect, and hopeless restorative prognosis.",
+  "treatmentProvided": "Atraumatic extraction of non-restorable teeth 11 and 21 was performed under local anesthesia using periotomes and extraction forceps with preservation of surrounding alveolar bone. Sockets were curetted, debrided, and irrigated with normal saline. After healing and bone assessment, two 3.75 mm x 13 mm endosseous implants were placed in regions 11 and 21 with primary stability greater than 35 Ncm. Cover screws were placed and flaps sutured with 3-0 silk. After osseointegration, healing abutments were placed, impressions were made, and implant-supported zirconia crowns were fabricated and delivered after esthetic, phonetic, and occlusal verification.",
+  "treatmentPlan": "Atraumatic extraction of teeth 11 and 21, socket preservation and debridement, healing period with bone-quality assessment, placement of two endosseous implants in regions 11 and 21, healing abutment placement after osseointegration, fabrication and cementation of implant-supported zirconia crowns, and periodic follow-up with peri-implant maintenance. Patient was informed that root canal treatment and post-core restoration had poor prognosis because of extensive crown-root fracture and inadequate remaining tooth structure. Informed consent was obtained.",
+  "dietAdvice": [
+    "Soft diet during immediate post-extraction and post-implant healing periods.",
+    "Avoid biting directly with the anterior implant region until definitive prosthesis delivery.",
+    "Maintain meticulous oral hygiene around surgical and prosthetic sites.",
+    "Report pain, swelling, bleeding, implant mobility, prosthesis loosening, or discharge immediately."
+  ],
+  "notes": [
+    "OPD No.: 2026/145.",
+    "Extraoral findings: mild swelling and tenderness of upper lip with superficial abrasions; no evident facial bone fracture.",
+    "Intraoral findings: Ellis Class VIII traumatic injury involving teeth 11 and 21, approximately three-fourths clinical crown fracture of both teeth, pulp exposure, Grade II mobility, gingival laceration, cervical bleeding, and positive percussion tenderness.",
+    "Both teeth showed poor crown-root ratio and inadequate remaining tooth structure for post and core restoration.",
+    "Pre-operative IOPA: extensive coronal destruction of teeth 11 and 21, oblique crown-root fractures extending subgingivally, widened periodontal ligament space, loss of ferrule effect, poor endodontic-restorative prognosis, intact surrounding alveolar bone, and adequate bone volume for future implant placement.",
+    "Post-operative radiograph: complete removal of fractured teeth, proper implant positioning in regions 11 and 21, adequate crestal bone levels, good implant parallelism, absence of peri-implant radiolucency, and successful osseointegration with stable bone support.",
+    "Outcome: complete relief from pain with restored function, improved esthetics, speech, and masticatory efficiency.",
+    "Follow-up at 1 month, 3 months, and 6 months showed satisfactory healing and stable implant-supported restorations.",
+    "Prognosis: excellent because of adequate bone support, successful osseointegration, favorable implant positioning, and good oral hygiene maintenance."
+  ],
+  "transportDestination": "Dental implant and trauma clinic",
+  "transportMode": "Self-presented one day after road traffic accident",
+  "careLevel": "Urgent dental surgical and implant rehabilitation",
+  "icd10Code": "S02.5",
+  "primaryImpression": "Non-restorable complicated crown-root fractures of teeth 11 and 21",
+  "secondaryImpression": "Traumatic anterior maxillary dental injury requiring extraction and implant-supported zirconia crowns",
+  "medicationsAdministered": [
+    "Local anesthesia for extraction and implant surgery",
+    "Postoperative medications prescribed as per surgical protocol"
+  ],
+  "proceduresPerformed": [
+    "Clinical and radiographic dental trauma assessment",
+    "Informed consent",
+    "Atraumatic extraction of teeth 11 and 21",
+    "Socket curettage, debridement, and saline irrigation",
+    "Socket preservation",
+    "Healing and bone-quality assessment",
+    "Endosseous implant placement in regions 11 and 21",
+    "Cover screw placement",
+    "Flap suturing with 3-0 silk",
+    "Healing abutment placement after osseointegration",
+    "Implant impressions",
+    "Fabrication and cementation of implant-supported zirconia crowns",
+    "Verification of esthetics, phonetics, and occlusion"
+  ],
+  "structuredProcedures": [
+    {
+      "procedureName": "Atraumatic extraction of teeth 11 and 21",
+      "performedAt": "2026-06-18T10:00:00",
+      "performedBy": "Dental clinician",
+      "successful": true,
+      "attempts": 1,
+      "bodysite": "Maxillary central incisors 11 and 21",
+      "complications": "None reported",
+      "patientResponse": "Procedure tolerated; fractured non-restorable teeth removed",
+      "snomedCode": null,
+      "notes": "Periotomes and extraction forceps used; sockets curetted and irrigated with normal saline while preserving alveolar bone."
+    },
+    {
+      "procedureName": "Endosseous dental implant placement in regions 11 and 21",
+      "performedAt": "2026-06-18T11:00:00",
+      "performedBy": "Dental implant clinician",
+      "successful": true,
+      "attempts": 1,
+      "bodysite": "Implant regions 11 and 21",
+      "complications": "None reported",
+      "patientResponse": "Primary stability achieved greater than 35 Ncm",
+      "snomedCode": null,
+      "notes": "Two implants placed; implant size 3.75 mm x 13 mm; cover screws placed; flaps sutured with 3-0 silk."
+    },
+    {
+      "procedureName": "Implant-supported zirconia crown rehabilitation",
+      "performedAt": "2026-06-18T12:00:00",
+      "performedBy": "Dental prosthetic clinician",
+      "successful": true,
+      "attempts": 1,
+      "bodysite": "Implant-supported crowns in regions 11 and 21",
+      "complications": "None reported",
+      "patientResponse": "Esthetics, phonetics, and occlusion verified",
+      "snomedCode": null,
+      "notes": "Healing abutments placed after osseointegration; impressions made; zirconia crowns fabricated and delivered."
+    }
+  ],
+  "clinicalData": {
+    "caseType": "Traumatic fracture of maxillary central incisors with implant rehabilitation",
+    "patientName": "Ajay Sharma",
+    "opdNumber": "2026/145",
+    "teethInvolved": [
+      "11 - maxillary right central incisor",
+      "21 - maxillary left central incisor"
+    ],
+    "ellisClassification": "Ellis Class VIII traumatic injury pattern",
+    "definitiveDiagnosis": "Complicated crown-root fracture of teeth 11 and 21 with hopeless restorative prognosis",
+    "mechanismOfInjury": "Road traffic accident",
+    "extraoralExamination": {
+      "upperLip": "Mild swelling and tenderness",
+      "abrasions": "Superficial abrasions present",
+      "facialBoneFracture": "No evident facial bone fracture"
+    },
+    "intraoralExamination": {
+      "crownLoss": "Approximately three-fourths of clinical crowns of both teeth fractured",
+      "pulpExposure": true,
+      "mobility": "Grade II mobility in teeth 11 and 21",
+      "gingivalFindings": "Gingival laceration and bleeding around cervical region",
+      "percussion": "Positive with tenderness",
+      "restorability": "Poor crown-root ratio and inadequate remaining tooth structure for post and core restoration"
+    },
+    "radiographs": {
+      "preoperativeIopa": {
+        "figure": "Figure 1: Pre-operative radiograph",
+        "findings": [
+          "Extensive coronal destruction involving teeth 11 and 21",
+          "Oblique crown-root fractures extending subgingivally",
+          "Widening of periodontal ligament space",
+          "Loss of ferrule effect due to severe fracture",
+          "Poor prognosis for endodontic and restorative treatment",
+          "Surrounding alveolar bone intact",
+          "Adequate bone volume for future implant placement"
+        ],
+        "interpretation": "Severe crown-root fracture with approximately 75% coronal tooth structure loss; teeth deemed non-restorable"
+      },
+      "postoperativeRadiograph": {
+        "figure": "Figure 2: Post-operative radiograph",
+        "findings": [
+          "Complete removal of fractured teeth 11 and 21",
+          "Two dental implants placed successfully in regions 11 and 21",
+          "Proper implant positioning",
+          "Adequate crestal bone levels around implants",
+          "Good implant parallelism",
+          "No peri-implant radiolucency",
+          "Successful osseointegration with stable bone support"
+        ],
+        "interpretation": "Healthy peri-implant bone levels and successful implant-supported rehabilitation"
+      }
+    },
+    "implantDetails": {
+      "implantCount": 2,
+      "implantSites": [
+        "11",
+        "21"
+      ],
+      "implantSize": "3.75 mm x 13 mm",
+      "primaryStability": ">35 Ncm",
+      "coverScrewsPlaced": true,
+      "sutureMaterial": "3-0 silk",
+      "prosthesis": "Implant-supported zirconia crowns"
+    },
+    "followUp": [
+      {
+        "time": "1 month",
+        "findings": "Satisfactory healing and stable implant-supported restoration"
+      },
+      {
+        "time": "3 months",
+        "findings": "Stable peri-implant tissues and function"
+      },
+      {
+        "time": "6 months",
+        "findings": "Satisfactory healing, stable implant-supported restorations, restored esthetics and function"
+      }
+    ],
+    "outcome": "Complete relief from pain and restoration of function with significant improvement in esthetics, speech, and masticatory efficiency",
+    "prognosis": "Excellent",
+    "sourceAssumptions": [
+      "Date of visit encoded as 2026-06-18 because the request was made on that date and case states presentation one day after accident.",
+      "Date of birth encoded as 1996-01-01 because the case provides age 30 but no exact DOB."
+    ]
+  },
+  "dynamicFormResponses": {
+    "caseReportTitle": "Traumatic Fracture of Maxillary Central Incisors 11 and 21 Managed with Extraction and Implant-Supported Zirconia Crowns",
+    "opdNumber": "2026/145",
+    "dateOfVisit": "2026-06-18",
+    "accidentDate": "2026-06-17",
+    "informedConsentObtained": true,
+    "extractionCompleted": true,
+    "implantPlacementCompleted": true,
+    "zirconiaCrownsDelivered": true,
+    "regularFollowUpMaintained": true
+  }
+}

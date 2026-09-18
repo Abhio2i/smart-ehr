@@ -1,0 +1,399 @@
+{
+  "patientName": "XYZ",
+  "patientDateOfBirth": "1999-03-15",
+  "patientGender": "MALE",
+  "patientPhone": "+919876543210",
+  "patientAddress": "Address not disclosed",
+  "medicalHistory": {
+    "pastConditions": [],
+    "currentMedications": [],
+    "allergies": [
+      "No known drug allergies"
+    ],
+    "surgicalHistory": [],
+    "dnrOnFile": false,
+    "advanceDirective": false,
+    "advanceDirectiveType": null,
+    "primaryPhysicianName": null,
+    "primaryPhysicianContact": null,
+    "primaryPhysicianFacility": null,
+    "smoker": false,
+    "alcoholUse": false,
+    "substanceUse": false,
+    "substanceUseDetails": null,
+    "pregnant": false,
+    "gestationalWeekIfPregnant": null,
+    "lastKnownWellDateTime": "2026-03-13T10:00:00",
+    "lastOralIntake": "Not clinically significant for dental emergency",
+    "notes": [
+      "Medical history non-contributory.",
+      "No systemic disease reported.",
+      "No known drug allergies."
+    ]
+  },
+  "age": 27,
+  "email": "xyz.dental.case@example.com",
+  "bloodGroup": "Not recorded",
+  "spo2": 99.0,
+  "respirationRate": 16,
+  "heartRate": 78,
+  "diastolicBp": 76,
+  "systolicBp": 118,
+  "pulseRate": 78,
+  "temperature": 36.8,
+  "comorbidity": "None reported",
+  "allergy": "No known drug allergies",
+  "doctor": "Dental trauma clinic",
+  "currentMedicines": "None reported",
+  "incidentDateTime": "2026-03-13T10:00:00",
+  "incidentLocation": "Road traffic accident site",
+  "incidentDescription": "Bike accident with direct impact to upper anterior teeth. Patient reported fractured maxillary right central incisor, upper lip swelling, cold sensitivity, and pain while biting. No loss of consciousness, nausea, vomiting, facial bone fracture, TMJ abnormality, tooth displacement, or root fracture.",
+  "incidentType": "DENTAL",
+  "complaints": [
+    "Broken upper front tooth after bike accident",
+    "Unable to smile properly",
+    "Pain while eating and biting",
+    "Sensitivity to cold water and air",
+    "Mild upper lip swelling"
+  ],
+  "vitals": [
+    "BP 118/76 mmHg",
+    "HR 78 bpm",
+    "RR 16/min",
+    "SpO2 99% on room air",
+    "Temperature 36.8 C",
+    "GCS 15"
+  ],
+  "structuredComplaints": [
+    {
+      "complaint": "Fractured maxillary right central incisor after road traffic accident",
+      "onset": "Acute",
+      "onsetTime": "2026-03-13T10:00:00",
+      "provocation": "Biting, mastication, cold water, and air exposure",
+      "quality": "Sharp sensitivity with biting discomfort",
+      "radiation": "None",
+      "severity": 5,
+      "timing": "Persistent since trauma with stimulus-related exacerbation",
+      "associatedSymptoms": "Bleeding from upper lip and gums immediately after trauma, upper labial mucosal laceration, mild gingival inflammation around tooth 11",
+      "traumaRelated": true
+    }
+  ],
+  "structuredVitals": [
+    {
+      "treatmentPhase": "Pre-treatment",
+      "vitalPhase": "Initial dental trauma assessment",
+      "recordedAt": "2026-03-15T09:30:00",
+      "heartRate": 78,
+      "pulseRate": 78,
+      "systolicBP": 118,
+      "diastolicBP": 76,
+      "respiratoryRate": 16,
+      "oxygenSaturation": 99,
+      "oxygenDeliveryMethod": "Room air",
+      "temperature": 36.8,
+      "temperatureRoute": "Oral",
+      "hemoglobin": null,
+      "glasgowComaScale": 15,
+      "mentalStatus": "Alert and oriented",
+      "gcEye": 4,
+      "gcVerbal": 5,
+      "gcMotor": 6,
+      "avpu": "Alert",
+      "painScore": 5,
+      "painLocation": "Tooth 11",
+      "bloodGlucose": null,
+      "skinColor": "Normal",
+      "skinCondition": "Dry",
+      "skinTemperature": "Warm",
+      "pupilLeft": "3 mm",
+      "pupilRight": "3 mm",
+      "pupilsEqual": true,
+      "pupilsReactive": true,
+      "recordedBy": "Dental clinician"
+    }
+  ],
+  "diagnosis": "Ellis Class III complicated crown fracture of maxillary right central incisor (tooth 11) with pulp exposure, associated subluxation injury, and upper labial soft tissue laceration. No root fracture, alveolar fracture, tooth displacement, or periapical pathology identified.",
+  "treatmentProvided": "Emergency dental trauma management was completed under local anesthesia and rubber dam isolation. Endodontic access was gained through the fracture site, coronal pulp was removed, working length was determined using apex locator and radiographic confirmation, canals were cleaned and shaped with crown-down instrumentation, irrigated with 3% sodium hypochlorite, saline, and 17% EDTA, obturated with gutta-percha and AH Plus sealer, restored with fiber post, dual-cure resin cement, composite core build-up, and provisional crown.",
+  "treatmentPlan": "Definitive rehabilitation with lithium disilicate (E-max) full ceramic crown after 7-day review. Verify shade, marginal fit, proximal contacts, and occlusion before resin cementation. Follow-up at 1 week, 1 month, 3 months, 6 months, and annually. Monitor pain, mobility, percussion response, pulp/endodontic status, discoloration, gingival healing, periodontal ligament space, periapical changes, root resorption, crown margins, restoration integrity, and occlusion.",
+  "dietAdvice": [
+    "Soft diet for the initial post-treatment period.",
+    "Avoid biting hard foods directly with tooth 11 until definitive crown cementation.",
+    "Maintain oral hygiene with gentle brushing around the injured area.",
+    "Report swelling, spontaneous pain, fever, sinus tract, crown loosening, or recurrent trauma immediately."
+  ],
+  "notes": [
+    "Title: Management of a complicated crown fracture of maxillary right central incisor following trauma - clinical case report.",
+    "Date of visit: 2026-03-15.",
+    "Accident occurred 48 hours before presentation.",
+    "Patient preserved the fractured tooth fragment in milk and brought it to the clinic.",
+    "Extraoral findings: mild upper lip swelling, healing abrasion on lower chin, no facial asymmetry, no mandibular deviation, TMJ movements normal.",
+    "Intraoral soft tissue findings: healing upper labial mucosal laceration and mild gingival inflammation around tooth 11.",
+    "Hard tissue findings: oblique crown fracture involving mesio-incisal angle of tooth 11, extending from incisal edge toward cervical third, with visible pulp exposure and bleeding from pulp chamber.",
+    "Clinical tests: cold test positive, heat test positive, EPT delayed response, percussion tender, palpation negative, Grade I mobility.",
+    "Prognosis: good with preserved tooth structure, no root fracture, immediate treatment, and maintained follow-up.",
+    "One-year outcome target: asymptomatic tooth, stable crown, healthy gingiva, intact periapical structures, no root resorption, satisfactory esthetic and functional outcome."
+  ],
+  "transportDestination": "Dental trauma clinic",
+  "transportMode": "Self-presented after road traffic accident",
+  "careLevel": "Urgent dental care",
+  "icd10Code": "S02.5",
+  "primaryImpression": "Complicated crown fracture of tooth 11 due to road traffic accident",
+  "secondaryImpression": "Subluxation injury and upper labial mucosal laceration",
+  "medicationsAdministered": [
+    "2% lignocaine with 1:80,000 adrenaline for local anesthesia"
+  ],
+  "proceduresPerformed": [
+    "Clinical and radiographic dental trauma assessment",
+    "Rubber dam isolation",
+    "Root canal treatment of tooth 11",
+    "Working length determination with apex locator and radiograph",
+    "Biomechanical preparation using crown-down technique with ProTaper Gold files",
+    "Irrigation with 3% sodium hypochlorite, saline, and 17% EDTA",
+    "Obturation with gutta-percha and AH Plus sealer",
+    "Fiber post placement with 4 mm apical gutta-percha seal maintained",
+    "Composite core build-up",
+    "Full ceramic crown preparation",
+    "Bis-acryl provisional crown placement",
+    "Lithium disilicate E-max crown try-in and resin cementation",
+    "Finishing, polishing, and occlusal adjustment"
+  ],
+  "structuredMedications": [
+    {
+      "medicationName": "Lignocaine",
+      "brandName": null,
+      "dosage": 2.0,
+      "unit": "%",
+      "route": "Local infiltration",
+      "administeredAt": "2026-03-15T09:45:00",
+      "administeredBy": "Dental clinician",
+      "administrationAttempts": 1,
+      "patientResponse": "Adequate local anesthesia achieved",
+      "adverseReactionDetails": "None reported",
+      "rxNormCode": null,
+      "indication": "Pain control for endodontic and restorative treatment",
+      "contraindications": "No known allergy reported",
+      "notes": "2% lignocaine with 1:80,000 adrenaline"
+    }
+  ],
+  "structuredProcedures": [
+    {
+      "procedureName": "Root canal treatment of tooth 11",
+      "performedAt": "2026-03-15T10:00:00",
+      "performedBy": "Dental clinician",
+      "successful": true,
+      "attempts": 1,
+      "bodysite": "Maxillary right central incisor (11)",
+      "complications": "None",
+      "patientResponse": "Tolerated procedure",
+      "snomedCode": null,
+      "notes": "Working length 23 mm; obturation confirmed radiographically."
+    },
+    {
+      "procedureName": "Fiber post and composite core build-up",
+      "performedAt": "2026-03-15T11:15:00",
+      "performedBy": "Dental clinician",
+      "successful": true,
+      "attempts": 1,
+      "bodysite": "Tooth 11",
+      "complications": "None",
+      "patientResponse": "Tolerated procedure",
+      "snomedCode": null,
+      "notes": "Post space prepared after gutta-percha removal while preserving 4 mm apical seal; fiber post cemented with dual-cure resin cement."
+    },
+    {
+      "procedureName": "Provisional crown placement",
+      "performedAt": "2026-03-15T12:00:00",
+      "performedBy": "Dental clinician",
+      "successful": true,
+      "attempts": 1,
+      "bodysite": "Tooth 11",
+      "complications": "None",
+      "patientResponse": "Esthetics and function provisionally restored",
+      "snomedCode": null,
+      "notes": "Bis-acryl provisional crown cemented temporarily after full ceramic crown preparation."
+    },
+    {
+      "procedureName": "Lithium disilicate crown cementation",
+      "performedAt": "2026-03-22T10:00:00",
+      "performedBy": "Dental clinician",
+      "successful": true,
+      "attempts": 1,
+      "bodysite": "Tooth 11",
+      "complications": "None",
+      "patientResponse": "Satisfactory esthetic and functional outcome",
+      "snomedCode": null,
+      "notes": "E-max crown try-in, shade verification, occlusal check, and resin cementation completed."
+    }
+  ],
+  "clinicalData": {
+    "caseType": "Dental trauma case analysis",
+    "toothInvolved": "11 - maxillary right central incisor",
+    "ellisClassification": "Ellis Class III",
+    "fractureClassification": "Complicated crown fracture involving enamel, dentin, and pulp",
+    "mechanismOfInjury": "Road traffic accident after fall from bike",
+    "fragmentStorage": "Fractured tooth fragment preserved in milk",
+    "extraoralExamination": {
+      "upperLip": "Mild swelling",
+      "lowerChin": "Healing abrasion",
+      "facialBones": "No clinical evidence of fracture",
+      "tmj": "No abnormality; movements normal",
+      "lossOfConsciousness": false,
+      "nauseaOrVomiting": false
+    },
+    "intraoralExamination": {
+      "softTissue": [
+        "Healing laceration of upper labial mucosa",
+        "Mild gingival inflammation around tooth 11"
+      ],
+      "hardTissue": [
+        "Oblique crown fracture",
+        "Mesio-incisal angle fractured",
+        "Fracture extends from incisal edge toward cervical third",
+        "Pulp visibly exposed",
+        "Bleeding from pulp chamber",
+        "Tenderness on percussion",
+        "Grade I mobility"
+      ],
+      "adjacentTeeth": "Clinically normal",
+      "toothDisplacement": "Absent"
+    },
+    "pulpVitalityTests": {
+      "coldTest": "Positive",
+      "heatTest": "Positive",
+      "electricPulpTest": "Delayed response",
+      "percussion": "Tender",
+      "palpation": "Negative"
+    },
+    "radiographs": {
+      "preoperativeIopa": {
+        "view": "Intraoral periapical radiograph of tooth 11",
+        "findings": [
+          "Oblique crown fracture involving enamel, dentin, and pulp",
+          "No horizontal root fracture",
+          "No vertical root fracture",
+          "Closed apex",
+          "Slight widening of periodontal ligament space",
+          "Intact lamina dura",
+          "No periapical radiolucency or pathology"
+        ],
+        "interpretation": "Complicated crown fracture without root fracture or periapical disease"
+      },
+      "occlusalRadiograph": {
+        "view": "Maxillary anterior occlusal radiograph",
+        "findings": [
+          "No alveolar fracture",
+          "No tooth displacement",
+          "Surrounding bone intact"
+        ],
+        "interpretation": "No associated alveolar bone injury detected"
+      },
+      "cbctIfAvailable": {
+        "findings": [
+          "No horizontal root fracture",
+          "No vertical root fracture",
+          "Buccal cortical plate intact",
+          "Palatal cortical plate intact",
+          "No alveolar bone fracture"
+        ],
+        "interpretation": "Three-dimensional assessment does not show root or cortical plate fracture"
+      },
+      "workingLengthRadiograph": {
+        "workingLengthMm": 23,
+        "findings": [
+          "File length confirmed radiographically",
+          "Canal negotiable to working length"
+        ]
+      },
+      "masterConeRadiograph": {
+        "findings": [
+          "Master cone adaptation verified",
+          "Cone reaches prepared working length"
+        ]
+      },
+      "postObturationRadiograph": {
+        "findings": [
+          "Dense obturation",
+          "Adequate apical seal",
+          "No voids noted radiographically"
+        ]
+      },
+      "postPlacementRadiograph": {
+        "findings": [
+          "Proper fiber post adaptation",
+          "Uniform cement layer",
+          "4 mm apical gutta-percha seal maintained"
+        ]
+      },
+      "finalCrownRadiograph": {
+        "findings": [
+          "Proper crown margins",
+          "Healthy periapical area",
+          "No periapical pathology"
+        ]
+      }
+    },
+    "endodonticDetails": {
+      "access": "Access gained through fracture site",
+      "workingLengthMm": 23,
+      "workingLengthMethods": [
+        "Apex locator",
+        "Radiographic confirmation"
+      ],
+      "preparationTechnique": "Crown-down",
+      "files": "ProTaper Gold",
+      "irrigants": [
+        "3% sodium hypochlorite",
+        "Saline",
+        "17% EDTA"
+      ],
+      "obturationTechnique": "Cold lateral condensation",
+      "sealer": "AH Plus",
+      "postSystem": "Fiber post",
+      "postCement": "Dual-cure resin cement",
+      "coreMaterial": "Composite core material",
+      "finalRestoration": "Lithium disilicate E-max crown"
+    },
+    "followUpPlan": [
+      {
+        "time": "1 week",
+        "assessment": "Pain, mobility, soft tissue healing, provisional/final restoration stability"
+      },
+      {
+        "time": "1 month",
+        "assessment": "Crown stability, esthetics, percussion tenderness, gingival status"
+      },
+      {
+        "time": "3 months",
+        "assessment": "Radiographic periodontal ligament space and periapical status"
+      },
+      {
+        "time": "6 months",
+        "assessment": "Functional stability, gingival health, restoration integrity"
+      },
+      {
+        "time": "1 year and annually",
+        "assessment": "Periapical structures, root resorption, crown margins, occlusion, long-term esthetics"
+      }
+    ],
+    "followUpFindings": {
+      "oneWeek": "No pain, no mobility, soft tissue healing satisfactory.",
+      "oneMonth": "Crown stable, esthetics satisfactory, no tenderness.",
+      "threeMonths": "Normal periodontal ligament space; no periapical pathology.",
+      "sixMonths": "Functional stability, excellent esthetics, healthy gingiva.",
+      "oneYear": "Intact periapical structures, no root resorption, stable restoration."
+    },
+    "prognosis": "Good",
+    "discussion": "Traumatic anterior tooth fractures are common in young adults after falls, sports injuries, and road traffic accidents. Maxillary central incisors are commonly involved due to their anterior position. In a mature permanent tooth with complicated crown fracture and pulp exposure, root canal treatment followed by fiber post-supported ceramic restoration can restore function and esthetics with favorable prognosis when follow-up is maintained.",
+    "conclusion": "The patient presented with Ellis Class III fracture of tooth 11 following road traffic accident. Endodontic therapy, fiber post placement, composite core build-up, and E-max crown rehabilitation restored esthetics and function with favorable follow-up findings."
+  },
+  "dynamicFormResponses": {
+    "caseReportTitle": "Management of a Complicated Crown Fracture of Maxillary Right Central Incisor Following Trauma - A Clinical Case Report",
+    "dateOfVisit": "2026-03-15",
+    "occupation": "Software Engineer",
+    "diagnosticSummary": "Clinical examination, vitality tests, IOPA, occlusal radiograph, and CBCT if available support Ellis Class III complicated crown fracture of tooth 11 without root or alveolar fracture.",
+    "immediateManagementCompleted": true,
+    "definitiveCrownCompleted": true,
+    "regularFollowUpMaintained": true,
+    "sourceConsistencyNote": "Detailed case record uses Ellis Class III because the documented pulp exposure, bleeding pulp chamber, RCT, fiber post, and crown plan are consistent with a complicated crown fracture."
+  }
+}

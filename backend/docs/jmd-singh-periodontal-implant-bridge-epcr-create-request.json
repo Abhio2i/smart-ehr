@@ -1,0 +1,280 @@
+{
+  "patientName": "Mrs. JMD Singh",
+  "patientDateOfBirth": "1963-01-01",
+  "patientGender": "FEMALE",
+  "age": 63,
+  "medicalHistory": {
+    "pastConditions": [
+      "Generalized chronic periodontitis"
+    ],
+    "currentMedications": [],
+    "allergies": [
+      "No known drug allergies reported"
+    ],
+    "surgicalHistory": [],
+    "dnrOnFile": false,
+    "advanceDirective": false,
+    "smoker": false,
+    "alcoholUse": false,
+    "substanceUse": false,
+    "pregnant": false,
+    "lastKnownWellDateTime": "2026-06-18T09:00:00",
+    "lastOralIntake": "Not recorded",
+    "notes": [
+      "Progressive loosening of lower anterior teeth over several years.",
+      "Occasional gingival bleeding and food lodgement reported.",
+      "Patient requested fixed replacement option."
+    ]
+  },
+  "allergy": "No known drug allergies reported",
+  "comorbidity": "Generalized chronic periodontitis",
+  "doctor": "Periodontal and implant rehabilitation clinic",
+  "currentMedicines": "None reported",
+  "incidentDateTime": "2026-06-18T09:00:00",
+  "incidentLocation": "Dental outpatient clinic",
+  "incidentDescription": "Progressive periodontal mobility of mandibular anterior teeth with difficulty chewing, poor esthetics, discomfort while biting, pathological migration, occasional gingival bleeding, and food lodgement.",
+  "incidentType": "DENTAL",
+  "complaints": [
+    "Mobility of lower front teeth",
+    "Difficulty in chewing",
+    "Poor esthetics",
+    "Discomfort while biting",
+    "Migration of lower front teeth",
+    "Occasional bleeding from gums",
+    "Food lodgement"
+  ],
+  "vitals": [
+    "Vitals not specifically recorded in case sheet",
+    "Patient clinically stable for dental surgical treatment"
+  ],
+  "structuredComplaints": [
+    {
+      "complaint": "Progressive mobility and migration of mandibular anterior teeth",
+      "onset": "Chronic progressive",
+      "onsetTime": "2026-06-18T09:00:00",
+      "provocation": "Biting and chewing",
+      "quality": "Discomfort with mobile lower anterior teeth",
+      "radiation": "None reported",
+      "severity": 6,
+      "timing": "Progressive over several years",
+      "associatedSymptoms": "Gingival recession, deep periodontal pockets, attachment loss, occasional bleeding, food lodgement, and poor esthetics",
+      "traumaRelated": false
+    }
+  ],
+  "diagnosis": "Generalized chronic periodontitis with localized advanced periodontal destruction in the mandibular anterior region, causing hopeless periodontal prognosis of teeth 33, 32, 31, 41, 42, and 43.",
+  "treatmentProvided": "Initial periodontal therapy included oral hygiene instructions, full-mouth scaling and root planing, and periodontal evaluation. Under local anesthesia, crevicular incision and flap reflection were performed, followed by atraumatic extraction of hopeless teeth 33, 32, 31, 41, 42, and 43. Extraction sockets were thoroughly debrided, curetted, and irrigated. Osteotomy preparation was completed in bilateral canine regions, two endosseous titanium implants were placed in regions 33 and 43 with primary stability greater than 35 Ncm, bone grafting was placed where required, and flaps were sutured with 3-0 silk.",
+  "treatmentPlan": "Preserve available bone, eliminate infection and mobile teeth, and restore esthetics and function with a fixed implant-supported mandibular anterior prosthesis. After 3 to 4 months of osseointegration, expose implants, place healing abutments, make open-tray implant impressions, fabricate an implant-supported fixed six-unit bridge from canine to canine, and deliver the final prosthesis with pontics replacing central and lateral incisors. Continue periodontal and implant maintenance every 6 months.",
+  "dietAdvice": [
+    "Soft diet for 1 week after surgery.",
+    "Avoid excessive pressure on the mandibular anterior surgical site.",
+    "Maintain meticulous oral hygiene.",
+    "Use chlorhexidine mouthwash 0.2% twice daily as advised.",
+    "Attend follow-up after 7 days for suture removal."
+  ],
+  "notes": [
+    "Extraoral examination: facial symmetry maintained, no swelling or tenderness, TMJ movements within normal limits.",
+    "Intraoral examination: generalized chronic periodontitis with localized severe involvement in mandibular anterior region.",
+    "Teeth 33, 32, 31, 41, 42, and 43 showed Grade II to Grade III mobility, gingival recession, deep periodontal pockets, pathological migration, and significant attachment loss.",
+    "Periodontal findings: probing depth 7-10 mm in lower anterior region, clinical attachment loss greater than 50%, severe horizontal and vertical bone loss, poor crown-root ratio, and unfavorable long-term prognosis.",
+    "Pre-operative radiograph: severe horizontal and vertical alveolar bone loss from canine to canine, bone support reduced to apical one-third of roots, widening of periodontal ligament space, loss of lamina dura, and advanced periodontal destruction.",
+    "Mandibular anterior teeth were not suitable for predictable root canal treatment, splinting, regenerative therapy, or long-term natural tooth retention.",
+    "Implant plan: two implants in regions 33 and 43, diameter 3.75-4.2 mm, length 10-13 mm, platform-level design with good primary stability.",
+    "Final prosthesis: implant-supported fixed six-unit bridge extending from canine to canine.",
+    "Postoperative care: antibiotics for 5 days, analgesics as required, chlorhexidine mouthwash 0.2% twice daily, soft diet, and 7-day suture removal.",
+    "Final outcome: improved esthetics, speech, comfort, chewing efficiency, and stable long-term fixed rehabilitation."
+  ],
+  "transportDestination": "Periodontal and implant rehabilitation clinic",
+  "transportMode": "Outpatient dental visit",
+  "careLevel": "Periodontal implant rehab",
+  "icd10Code": "K05.3",
+  "primaryImpression": "Advanced chronic periodontitis with hopeless mandibular anterior teeth",
+  "secondaryImpression": "Mandibular anterior implant-supported fixed bridge rehabilitation",
+  "medicationsAdministered": [
+    "Local anesthesia for extraction and implant surgery",
+    "Antibiotics prescribed for 5 days",
+    "Analgesics prescribed as required",
+    "Chlorhexidine mouthwash 0.2% twice daily"
+  ],
+  "proceduresPerformed": [
+    "Oral hygiene instructions",
+    "Full-mouth scaling and root planing",
+    "Periodontal evaluation",
+    "Crevicular incision and flap reflection",
+    "Atraumatic extraction of teeth 33, 32, 31, 41, 42, and 43",
+    "Socket debridement, curettage, and irrigation",
+    "Residual ridge assessment",
+    "Osteotomy preparation in bilateral canine regions",
+    "Placement of two endosseous titanium implants in regions 33 and 43",
+    "Verification of primary stability greater than 35 Ncm",
+    "Bone graft placement where required",
+    "Suturing with 3-0 silk",
+    "Healing abutment placement after osseointegration",
+    "Open-tray implant impression",
+    "Fabrication and delivery of implant-supported fixed six-unit bridge"
+  ],
+  "structuredMedications": [
+    {
+      "medicationName": "Chlorhexidine",
+      "brandName": null,
+      "dosage": 0.2,
+      "unit": "%",
+      "route": "Mouth rinse",
+      "administeredAt": "2026-06-18T12:00:00",
+      "administeredBy": "Dental clinician",
+      "administrationAttempts": 1,
+      "patientResponse": "Postoperative antiseptic regimen advised",
+      "adverseReactionDetails": "None reported",
+      "rxNormCode": null,
+      "indication": "Postoperative plaque control and surgical-site hygiene",
+      "contraindications": "No known allergy reported",
+      "notes": "Use twice daily as instructed."
+    }
+  ],
+  "structuredProcedures": [
+    {
+      "procedureName": "Atraumatic extraction of mandibular anterior teeth 33 to 43",
+      "performedAt": "2026-06-18T10:00:00",
+      "performedBy": "Periodontal clinician",
+      "successful": true,
+      "attempts": 1,
+      "bodysite": "Mandibular anterior teeth 33, 32, 31, 41, 42, and 43",
+      "complications": "None reported",
+      "patientResponse": "Hopeless mobile teeth removed; sockets debrided and irrigated",
+      "snomedCode": null,
+      "notes": "Crevicular incision, flap reflection, atraumatic extraction, socket curettage, and saline irrigation performed."
+    },
+    {
+      "procedureName": "Endosseous implant placement in mandibular canine regions",
+      "performedAt": "2026-06-18T11:00:00",
+      "performedBy": "Implant clinician",
+      "successful": true,
+      "attempts": 1,
+      "bodysite": "Regions 33 and 43",
+      "complications": "None reported",
+      "patientResponse": "Primary stability greater than 35 Ncm achieved",
+      "snomedCode": null,
+      "notes": "Two endosseous titanium implants placed; bone grafting performed where necessary; sutured with 3-0 silk."
+    },
+    {
+      "procedureName": "Implant-supported mandibular anterior fixed bridge rehabilitation",
+      "performedAt": "2026-10-18T10:00:00",
+      "performedBy": "Prosthetic clinician",
+      "successful": true,
+      "attempts": 1,
+      "bodysite": "Mandibular anterior segment canine to canine",
+      "complications": "None reported",
+      "patientResponse": "Esthetics, speech, comfort, and chewing efficiency improved",
+      "snomedCode": null,
+      "notes": "After osseointegration, healing abutments were placed, open-tray impressions made, and fixed six-unit bridge delivered."
+    }
+  ],
+  "clinicalData": {
+    "caseType": "Advanced periodontal destruction of mandibular anterior teeth with implant-supported bridge rehabilitation",
+    "patientName": "Mrs. JMD Singh",
+    "teethInvolved": [
+      "33",
+      "32",
+      "31",
+      "41",
+      "42",
+      "43"
+    ],
+    "diagnosticSummary": "Generalized chronic periodontitis with localized advanced periodontal destruction in mandibular anterior region and hopeless prognosis of teeth 33-43.",
+    "extraoralExamination": {
+      "facialSymmetry": "Maintained",
+      "swelling": "Absent",
+      "tenderness": "Absent",
+      "tmj": "Within normal limits"
+    },
+    "intraoralExamination": {
+      "periodontalStatus": "Generalized chronic periodontitis with localized severe mandibular anterior involvement",
+      "mobility": "Grade II to Grade III in teeth 33, 32, 31, 41, 42, and 43",
+      "gingivalRecession": true,
+      "deepPeriodontalPockets": true,
+      "pathologicalMigration": true,
+      "attachmentLoss": "Significant; clinical attachment loss greater than 50%",
+      "probingDepth": "7-10 mm in lower anterior region",
+      "boneLoss": "Severe horizontal and vertical bone loss",
+      "crownRootRatio": "Poor",
+      "toothPrognosis": "Hopeless for long-term retention"
+    },
+    "radiographs": {
+      "preoperativeRadiograph": {
+        "findings": [
+          "Severe horizontal and vertical alveolar bone loss from canine to canine",
+          "Bone support reduced to apical one-third of roots",
+          "Widening of periodontal ligament space",
+          "Loss of lamina dura",
+          "Advanced periodontal destruction around mandibular anterior teeth",
+          "Remaining bone inadequate to support natural teeth for long-term retention"
+        ],
+        "interpretation": "Hopeless periodontal prognosis; extraction with implant-supported rehabilitation most appropriate."
+      },
+      "postoperativeRadiograph": {
+        "expectedFindings": [
+          "Extraction of teeth 33, 32, 31, 41, 42, and 43",
+          "Two implants in regions 33 and 43",
+          "Stable crestal bone levels after osseointegration",
+          "Implant-supported fixed bridge from canine to canine"
+        ]
+      }
+    },
+    "treatmentObjectives": [
+      "Eliminate infection and mobile teeth",
+      "Preserve available bone",
+      "Restore esthetics and function",
+      "Provide fixed long-term prosthetic solution",
+      "Improve comfort and masticatory efficiency"
+    ],
+    "implantPlan": {
+      "implantCount": 2,
+      "implantSites": [
+        "33",
+        "43"
+      ],
+      "diameterRange": "3.75-4.2 mm",
+      "lengthRange": "10-13 mm",
+      "implantType": "Platform-level endosseous titanium implants",
+      "primaryStability": ">35 Ncm",
+      "boneGrafting": "Performed if required based on intraoperative findings"
+    },
+    "prostheticPlan": {
+      "osseointegrationPeriod": "3-4 months",
+      "impressionTechnique": "Open-tray implant technique",
+      "prosthesis": "Implant-supported fixed six-unit bridge extending from canine to canine",
+      "support": "Implants in canine regions",
+      "pontics": "Central and lateral incisors",
+      "advantages": [
+        "Excellent esthetics",
+        "Improved phonetics",
+        "Better masticatory function",
+        "Prevention of further ridge resorption",
+        "Long-term predictable outcome"
+      ]
+    },
+    "followUpPlan": [
+      "7 days for suture removal",
+      "3-4 months for implant exposure and prosthetic phase",
+      "Maintenance every 6 months"
+    ],
+    "prognosis": {
+      "shortTerm": "Good healing expected with successful osseointegration anticipated due to adequate implant positioning.",
+      "longTerm": "Favorable with proper maintenance; implant-supported bridge expected to provide excellent functional and esthetic results for many years."
+    },
+    "finalOutcome": "Severely compromised mandibular anterior teeth were extracted due to advanced periodontal bone loss. Two implants were placed in canine regions to maximize available bone support. After osseointegration, a fixed implant-supported bridge replaced the lower anterior segment with significant improvement in esthetics, speech, comfort, and chewing efficiency.",
+    "sourceAssumptions": [
+      "Date of visit encoded as 2026-06-18 because no exact visit date was provided.",
+      "Date of birth encoded as 1963-01-01 because age 63 was provided without exact DOB."
+    ]
+  },
+  "dynamicFormResponses": {
+    "caseReportTitle": "Generalized Chronic Periodontitis with Localized Advanced Mandibular Anterior Destruction Managed with Implant-Supported Fixed Bridge",
+    "dateOfVisit": "2026-06-18",
+    "informedConsentObtained": true,
+    "initialPeriodontalTherapyCompleted": true,
+    "extractionsCompleted": true,
+    "implantPlacementCompleted": true,
+    "implantSupportedBridgePlannedOrDelivered": true,
+    "maintenanceIntervalMonths": 6
+  }
+}

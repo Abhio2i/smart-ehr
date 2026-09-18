@@ -1,0 +1,7 @@
+{
+  "patientId": "PAT-12345",
+  "patientName": "Hemant",
+  "email": "hemantkumar6774@gmail.com",
+  "incidentLocation": "123 Main St",
+  "incidentType": "OTHER"
+}
